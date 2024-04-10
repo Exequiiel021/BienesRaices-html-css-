@@ -1,0 +1,15 @@
+.footer{
+    padding: $separacion / 2;
+    background-color: $grisOscuro;
+    margin-bottom: 0; /*quitar el margin que le da el seccion al footer*/
+
+    .contenido-footer{
+        padding: $separacion / 2;
+    }
+
+    .copyright{
+    text-align: center;
+    color: $blanco;
+}
+}
+
